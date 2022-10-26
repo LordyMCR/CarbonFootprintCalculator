@@ -1,0 +1,88 @@
+body {
+    color: black;
+}
+
+#section {
+    padding: 2% 2% 2% 2%;
+}
+
+#header {
+    padding-top: 20px;
+}
+
+.navbar-custom {
+    background-color: #61892F;
+}
+
+#navText {
+    color: white !important;
+}
+
+#homeHeader {
+    color: #61892F;
+}
+
+h1, #myModalLabel, #formHeader {
+    color: #86C232;
+}
+
+#form {
+    animation: fadeInAnimation ease 1s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+#distanceScreenshot {
+    display: block;
+    width: auto;
+}
+
+#flightQ {
+    padding-top: 2%;
+}
+
+#flightsTotalRed {
+    border-color: rgba(194, 28, 28, 0.705);
+}
+
+#flightsTotalYellow {
+    border-color: rgba(226, 226, 10, 0.747);
+}
+
+#flightsTotalGreen {
+    border-color: rgba(14, 175, 76, 0.788);
+}
+
+#flightsTotalBlue {
+    border-color: rgba(6, 80, 192, 0.788);
+}
+
+#flightsTotalPurple {
+    border-color: rgba(150, 19, 190, 0.795);
+}
+
+#mainResultsTitle, #breakdownText {
+    padding-top: 3%;
+}
+
+#mainResults {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+#grandTotal {
+    color: #86C232;
+}
+
+#breakdownText {
+    padding-top: 3%;
+}
