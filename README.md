@@ -6,13 +6,13 @@ This website was created as part of a group project, to test our skills in group
 ## Built With
 * HTML5
 * CSS3 / Bootstrap
-* JavaScript / jQuery / Chart.js
+* JavaScript / jQuery / [Chart.js][1]
 * PHP
 * MySQL
 ## Installation
 The applications and tools used to create and run this project are:
-* [Visual Studio Code][1]
-* [XAMPP (Apache and MySQL)][2]
+* [Visual Studio Code][2]
+* [XAMPP (Apache and MySQL)][3]
 
 Download the repository and place the "CarbonCalc" subfolder in your "htdocs" folder of your XAMPP installation location (usually *C:\username\xampp\htdocs*).
 
@@ -20,6 +20,6 @@ Run XAMPP and start the "Apache" and "MySQL" modules. Then locate to **http://lo
 
 Locate to **http://localhost/CarbonCalc/home.php** to access the homepage.
 
-
-[1]: https://code.visualstudio.com/
-[2]: https://www.apachefriends.org/
+[1]: https://www.chartjs.org/
+[2]: https://code.visualstudio.com/
+[3]: https://www.apachefriends.org/
