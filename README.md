@@ -20,6 +20,10 @@ Run XAMPP and start the "Apache" and "MySQL" modules. Then locate to **http://lo
 
 Locate to **http://localhost/CarbonCalc/home.php** to access the homepage.
 
+## Presentation / Demonstration
+[Click to view Canva presentation outlining the overall project, including a recorded demonstration running on Desktop and Mobile][4]
+
 [1]: https://www.chartjs.org/
 [2]: https://code.visualstudio.com/
 [3]: https://www.apachefriends.org/
+[4]: https://www.canva.com/design/DAE88GpIEVY/Q_JF7XSIp4PKy_glnFt_hA/view?utm_content=DAE88GpIEVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton#1
